@@ -22,7 +22,8 @@
 
 Примечание валидация присуствует 
 
-https://github.com/Ukadan/Arbuz.kz/assets/45583190/8bfca644-ce87-4f55-8062-6c7d4b39a141
+
+https://github.com/Ukadan/Arbuz.kz/assets/45583190/d229267e-36ae-41d8-bd74-180f07a1287f
 
 
 
