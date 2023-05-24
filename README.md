@@ -15,10 +15,7 @@
 
 
 Это дизайн фигмы где создавал идею прежде чем приступить к кодингу 
-
-
-<img width="1440" alt="Снимок экрана 2023-05-23 в 14 58 52" src="https://github.com/Ukadan/Arbuz.kz/assets/45583190/d0e2d095-e39b-4ea1-bc8a-ed8c667b0d92">
-
+<img width="802" alt="Снимок экрана 2023-05-18 в 12 22 11" src="https://github.com/Ukadan/Arbuz.kz/assets/45583190/46a604f7-4f63-411f-8e6e-3af7ca020c66">
 
 
 
